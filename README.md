@@ -1,9 +1,3 @@
-# Fraud-Transaction-Detection-REST_API
-Below is a **clean, professional, interview-friendly GitHub README** for your **Fraud Detection REST API** project.
-You can **copy–paste this directly into your repository.**
-
----
-
 #  Fraud Detection REST API
 
 A lightweight **Machine Learning–powered REST API** built with **Flask** for predicting fraudulent financial transactions in real time.
